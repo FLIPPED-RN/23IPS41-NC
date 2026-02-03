@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75107f4a-f08f-4b54-b77a-33ef79f65806" name="Changes" comment="v0.0.2 | added graph">
+    <list default="true" id="75107f4a-f08f-4b54-b77a-33ef79f65806" name="Changes" comment="v0.0.3 | work nc1">
+      <change afterPath="$PROJECT_DIR$/NC2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NС1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NС1.ipynb" afterDir="false" />
     </list>
@@ -43,20 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +76,7 @@
       <updated>1770040830080</updated>
       <workItem from="1770040831160" duration="605000" />
       <workItem from="1770041458008" duration="1339000" />
-      <workItem from="1770114940956" duration="2352000" />
+      <workItem from="1770114940956" duration="4973000" />
     </task>
     <task id="LOCAL-00001" summary="v0.0.1">
       <option name="closed" value="true" />
@@ -92,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770115845716</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v0.0.3 | work nc1">
+      <option name="closed" value="true" />
+      <created>1770117452990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770117452990</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v0.0.3 | work nc1">
+      <option name="closed" value="true" />
+      <created>1770117468404</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770117468404</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v0.0.1" />
     <MESSAGE value="v0.0.2 | added graph" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.0.2 | added graph" />
+    <MESSAGE value="v0.0.3 | work nc1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.0.3 | work nc1" />
   </component>
 </project>
