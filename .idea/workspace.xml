@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75107f4a-f08f-4b54-b77a-33ef79f65806" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/23ISP41-NC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NС1.ipynb" afterDir="false" />
+    <list default="true" id="75107f4a-f08f-4b54-b77a-33ef79f65806" name="Changes" comment="v0.0.1">
+      <change beforePath="$PROJECT_DIR$/NС1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NС1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FLIPPED-RN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FLIPPED-RN/23IPS41-NC.git",
+    "accountId": "82106d65-4413-434b-8330-da40db55dfcc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -67,11 +73,24 @@
       <updated>1770040830080</updated>
       <workItem from="1770040831160" duration="605000" />
       <workItem from="1770041458008" duration="1339000" />
-      <workItem from="1770114940956" duration="343000" />
+      <workItem from="1770114940956" duration="861000" />
     </task>
+    <task id="LOCAL-00001" summary="v0.0.1">
+      <option name="closed" value="true" />
+      <created>1770115371552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770115371552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.0.1" />
   </component>
 </project>
