@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75107f4a-f08f-4b54-b77a-33ef79f65806" name="Changes" comment="v0.4.2 | UPDATE">
-      <change afterPath="$PROJECT_DIR$/NC4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NC5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NC6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NC7.ipynb" afterDir="false" />
+    <list default="true" id="75107f4a-f08f-4b54-b77a-33ef79f65806" name="Changes" comment="NC7">
+      <change afterPath="$PROJECT_DIR$/NC8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NC9.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voice.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zima.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NC2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NC2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NC3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NC3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fashion_mnist_dense.keras" beforeDir="false" afterPath="$PROJECT_DIR$/fashion_mnist_dense.keras" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,7 @@
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Flipper/Desktop/PROG/23ISP41-NC&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,6 +67,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Flipper\Desktop\PROG\23ISP41-NC" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,7 +93,9 @@
       <workItem from="1770120693072" duration="4186000" />
       <workItem from="1770284244169" duration="186000" />
       <workItem from="1770636001768" duration="4933000" />
-      <workItem from="1770726320667" duration="2082000" />
+      <workItem from="1770726320667" duration="2103000" />
+      <workItem from="1772193183574" duration="5168000" />
+      <workItem from="1772435892870" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="v0.0.1">
       <option name="closed" value="true" />
@@ -172,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770122984818</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="NC7">
+      <option name="closed" value="true" />
+      <created>1770794175951</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1770794175951</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +211,7 @@
     <MESSAGE value="v0.3.0 | update NC2 (work)" />
     <MESSAGE value="v0.4.0 | add NC3 (work)" />
     <MESSAGE value="v0.4.2 | UPDATE" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.4.2 | UPDATE" />
+    <MESSAGE value="NC7" />
+    <option name="LAST_COMMIT_MESSAGE" value="NC7" />
   </component>
 </project>
